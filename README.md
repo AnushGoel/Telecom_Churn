@@ -1,5 +1,7 @@
 # Telecom Churn Case Study
 
+The dataset can be downloaded from [here](https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view).
+
 ## Problem Statement
 
 ## Business Problem Overview
